@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>ChronoDeck Mac Updates</title>
+        <link>https://github.com/BearMett/chronodeck-releases</link>
+        <description>Most recent changes with links to updates.</description>
+        <language>en</language>
+        <item>
+            <title>v1.2.0</title>
+            <pubDate>Wed, 15 Apr 2026 15:40:25 +0900</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New</h2>
+                <ul>
+                    <li>Auto-update toggle in Settings</li>
+                    <li>Fixed update dialogs being hidden behind other windows (menu bar apps)</li>
+                    <li>Pairing authentication with 6-digit code</li>
+                    <li>Mac-side key management</li>
+                    <li>Menu bar app (no dock icon)</li>
+                    <li>Button editing from Mac</li>
+                    <li>Device management with rename</li>
+                    <li>Fixed system-wide input stutter</li>
+                    <li>Accessibility permission handling improvements</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/BearMett/chronodeck-releases/releases/download/v1.2.0/ChronoDeckMac.dmg"
+                length="2150457"
+                type="application/octet-stream"
+                sparkle:edSignature="zeJda7GOCQFEhJhI2GNXRFBrXgsXVJq8DtylWWMp4gj+o1djPuE7pz1eaySv4iFL69SCiuIvWK9D4Vfk2Gb5DQ=="
+            />
+        </item>
+    </channel>
+</rss>
